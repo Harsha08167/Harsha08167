@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsha08167
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Data science and Data analytics
+- 🌱 I’m currently learning AI in ERP
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - LinkedIn linkedin.com/in/harsha-j-nazre-235009220
